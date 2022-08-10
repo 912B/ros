@@ -2,7 +2,7 @@ name: China IP list
 
 on: 
   workflow_dispatch
-  # push: 
+   push: 
   #   branches:
   #     - master
   #watch:
