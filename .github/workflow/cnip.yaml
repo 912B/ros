@@ -1,6 +1,6 @@
 name: China IP list
 
-on: 
+on:
   workflow_dispatch
   #push: 
   #   branches:
